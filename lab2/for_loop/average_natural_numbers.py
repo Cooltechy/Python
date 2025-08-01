@@ -1,4 +1,4 @@
-# Program to calculate the average of first n natural numbers using a for loop
+# This program calculates the average of the first n natural numbers using a for loop.
 
 number = int(input("Enter the value of n: "))
 

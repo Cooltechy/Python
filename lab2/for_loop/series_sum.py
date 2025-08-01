@@ -1,4 +1,4 @@
-# Program to sum the series: 1/2 + 2/3 + 3/4 + ... + n/(n+1)
+# This program calculates the sum of the series: 1/2 + 2/3 + 3/4 + ... + n/(n+1).
 
 def sum_series(n):
     total = 0.0

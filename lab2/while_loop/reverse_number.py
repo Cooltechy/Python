@@ -1,3 +1,5 @@
+mv# This program reverses the digits of a given positive integer.
+
 number = int(input("Enter a number: "))
 
 if number < 0:

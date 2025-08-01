@@ -1,3 +1,5 @@
+# This program takes a list of numbers from the user and calculates their sum.
+
 def sum(arr ):
     total = 0
     for num in arr:

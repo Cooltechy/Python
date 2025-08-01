@@ -1,3 +1,5 @@
+# This program calculates the GCD (Greatest Common Divisor) of two numbers using the Euclidean algorithm.
+
 firstNumber = int(input("Enter the first number: "))
 secondNumber = int(input("Enter the second number: "))
 

@@ -1,3 +1,14 @@
+# This program prints a right pyramid pattern of stars based on the user's input.
+# *
+# **
+# ***
+# ****
+# *****
+# ****
+# ***
+# **
+# *
+
 n = int(input("Enter the value of n: "))
 
 for i in range(1, n + 1):

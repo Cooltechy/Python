@@ -1,3 +1,5 @@
+# This program generates the Fibonacci sequence up to a specified number of terms using recursion.
+
 def fibonacci(n):
     if n <= 0:
         return []

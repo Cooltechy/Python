@@ -1,4 +1,4 @@
-# Armstrong number using while loop
+# This program checks whether a given number is an Armstrong number using a while loop.
 
 num = int(input("Enter a number: "))
 temp = num

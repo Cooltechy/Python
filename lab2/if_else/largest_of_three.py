@@ -1,3 +1,6 @@
+# This program takes three integer inputs from the user and determines which one is the largest.
+# If there is no single largest number (i.e., at least two numbers are equal), it notifies the user.
+
 firstNumber = int(input("Enter the first number: "))
 secondNumber = int(input("Enter the second number: "))
 thirdNumber = int(input("Enter the third number: "))

@@ -1,4 +1,4 @@
-# Program to print the multiplication table of a given number
+# This program prints the multiplication table of a given number.
 
 number = int(input("Enter a number: "))
 

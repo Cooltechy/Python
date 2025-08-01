@@ -1,10 +1,12 @@
+# This program prints all divisors of a given integer, handling negative input as well.
+
 number = int(input("Enter a integer: "))
 
 if number < 0:
     print("-1" , end=' ')
     number *= -1
 
-i = 1;
+i = 1
 
 while i <= number:  
     if number % i == 0:
